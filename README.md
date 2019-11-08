@@ -12,4 +12,4 @@
 	* 接收一个组件，将redux数据放入组件的props内，并且返回一个组件
 	* 当redux中的数据发生改变时，通知组件
  
-重点就是[context](http://blog.linxunzyf.cn/posts/cb30c8d6/#context)的实现
+重点就是[context](https://linxunzyf.cn/posts/cb30c8d6/#context)的实现
